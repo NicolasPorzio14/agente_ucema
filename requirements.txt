@@ -1,0 +1,8 @@
+streamlit==1.66.0
+yfinance==1.7.0
+pandas==3.0.6
+numpy==2.4.6
+plotly==7.1.0
+crewai==1.15.28
+python-dotenv==1.2.4
+fpdf2==2.8.9
